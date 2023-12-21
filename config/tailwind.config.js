@@ -10,7 +10,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['Comfortaa', ...defaultTheme.fontFamily.sans],
+        sans: ['Lexend', ...defaultTheme.fontFamily.sans],
       },
     },
   },
